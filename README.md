@@ -1,8 +1,4 @@
-# Brainrot Egg Website 😄
 
-Vytvoř nový soubor `index.html` a vlož tam CELÝ tento kód:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
